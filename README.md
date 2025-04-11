@@ -12,6 +12,16 @@ and presentation decks.
 The goal of this repo is to provide a cheatsheet, compile resources for this
 workflow and some code snippets to generate the documents.
 
+## Install
+I'm maintaining this section just for Debian.
+
+```bash
+apt install pandoc \
+            pandoc-filter-diagram \
+            texlive-latex-extra \
+            texlive-fonts-extra
+```
+
 ## Resources
 
 ### Templates
